@@ -1,4 +1,4 @@
-package io.aboiyon.issitedown;
+package controllers;
 
 import java.io.IOException;
 import java.net.HttpURLConnection;
